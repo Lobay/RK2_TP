@@ -3,14 +3,16 @@
 Лобай Анастасия ИУ8-23
 
 Реализация списка List
-- [x]  1.C++
-- [x]  1.Java
-- [x]  1.Python
+- [x]  C++
+- [x]  Java
+- [x]  Python
+
 Реализация отображения Map
-- [x]  1.C++
-- [x]  1.Java
-- [x]  1.Python
+- [x]  C++
+- [x]  Java
+- [x]  Python
+
 Реализация дерева Tree
-- [x]  1.C++
-- [x]  1.Java
-- [x]  1.Python
+- [x]  C++
+- [x]  Java
+- [x]  Python
